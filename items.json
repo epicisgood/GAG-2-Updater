@@ -23,12 +23,15 @@
     { "name": "Beanstalk Seed", "image": "../../images/Seeds/Beanstalk Seed.webp" },
     { "name": "Poison Apple Seed", "image": "../../images/Seeds/Poison Apple Seed.webp" }
   ],
-  "Gears": [
-    { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
-    { "name": "Basic Sprinkler", "image": "../../images/Gears/Basic Sprinkler.webp" },
-    { "name": "Advanced Sprinkler", "image": "../../images/Gears/Advanced Sprinkler.webp" },
-    { "name": "Godly Sprinkler", "image": "../../images/Gears/Godly Sprinkler.webp" },
-    { "name": "Master Sprinkler", "image": "../../images/Gears/Master Sprinkler.webp" }
+"Gears": [
+    { "name": "Common Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/CommonSprinkler.png" },
+    { "name": "Uncommon Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/UncommonSprinkler.png" },
+    { "name": "Rare Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/RareSprinkler.png" },
+    { "name": "Legendary Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/LegendarySprinkler.png" },
+    { "name": "Super Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/SuperSprinkler.png" },
+    { "name": "Common Watering Can", "image": "https://growagarden2wiki.com/assets/images/gears/CommonWateringCan.png" },
+    { "name": "Super Watering Can", "image": "https://growagarden2wiki.com/assets/images/gears/SuperWateringCan.png" },
+    { "name": "Power Hose", "image": "https://growagarden2wiki.com/assets/images/gears/PowerHose.png" }
   ],
   "Eggs": [
     { "name": "Common Egg", "image": "../../images/Eggs/Common Egg.webp" },
