@@ -49,20 +49,20 @@
     { "name": "Super Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/SuperSprinkler.png" }
 ],
 "Props": [
-    { "name": "Ladder Crate", "image": "../../images/Eggs/Ladder Crate.webp" },
-    { "name": "Bench Crate", "image": "../../images/Eggs/Bench Crate.webp" },
-    { "name": "Light Crate", "image": "../../images/Eggs/Light Crate.webp" },
-    { "name": "Sign Crate", "image": "../../images/Eggs/Sign Crate.webp" },
-    { "name": "Arch Crate", "image": "../../images/Eggs/Arch Crate.webp" },
-    { "name": "Roleplay Crate", "image": "../../images/Eggs/Roleplay Crate.webp" },
-    { "name": "Bridge Crate", "image": "../../images/Eggs/Bridge Crate.webp" },
-    { "name": "Spring Crate", "image": "../../images/Eggs/Spring Crate.webp" },
-    { "name": "Seesaw Crate", "image": "../../images/Eggs/Seesaw Crate.webp" },
-    { "name": "Conveyor Crate", "image": "../../images/Eggs/Conveyor Crate.webp" },
-    { "name": "Owner Door Crate", "image": "../../images/Eggs/Owner Door Crate.webp" },
-    { "name": "Bear Trap Crate", "image": "../../images/Eggs/Bear Trap Crate.webp" },
-    { "name": "Fence Crate", "image": "../../images/Eggs/Fence Crate.webp" },
-    { "name": "Teleporter Pad Crate", "image": "../../images/Eggs/Teleporter Pad Crate.webp" }
+    { "name": "Ladder Crate", "image": "" },
+    { "name": "Bench Crate", "image": "" },
+    { "name": "Light Crate", "image": "" },
+    { "name": "Sign Crate", "image": "" },
+    { "name": "Arch Crate", "image": "" },
+    { "name": "Roleplay Crate", "image": "" },
+    { "name": "Bridge Crate", "image": "" },
+    { "name": "Spring Crate", "image": "" },
+    { "name": "Seesaw Crate", "image": "" },
+    { "name": "Conveyor Crate", "image": "" },
+    { "name": "Owner Door Crate", "image": "" },
+    { "name": "Bear Trap Crate", "image": "" },
+    { "name": "Fence Crate", "image": "" },
+    { "name": "Teleporter Pad Crate", "image": "" }
 ],
 
   "message": "Yay new macro release!"
