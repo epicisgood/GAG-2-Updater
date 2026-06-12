@@ -1,6 +1,6 @@
 {
 "Seeds": [
-    { "name": "Carrot Seed", "image": "" },
+    { "name": "Carrot Seed", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
     { "name": "Strawberry Seed", "image": "https://growagarden2wiki.com/assets/images/crops/seed/strawberry.png" },
     { "name": "Bamboo Seed", "image": "https://growagarden2wiki.com/assets/images/crops/seed/bamboo.png" },
     { "name": "Apple Seed", "image": "https://growagarden2wiki.com/assets/images/crops/seed/apple.png" },
