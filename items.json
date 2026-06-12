@@ -63,7 +63,7 @@
     { "name": "Bear Trap Crate", "image": "https://growagarden2wiki.com/assets/images/crates/BearTrapCrate.png" },
     { "name": "Fence Crate", "image": "https://growagarden2wiki.com/assets/images/crates/FenceCrate.png" },
     { "name": "Teleporter Pad Crate", "image": "https://growagarden2wiki.com/assets/images/crates/TeleporterPadCrate.png" }
-]
+],
 
   "message": "Yay new macro release!"
 }
