@@ -49,20 +49,20 @@
     { "name": "Super Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/SuperSprinkler.png" }
 ],
 "Props": [
-    { "name": "Ladder Crate", "image": "" },
-    { "name": "Bench Crate", "image": "" },
-    { "name": "Light Crate", "image": "" },
-    { "name": "Sign Crate", "image": "" },
-    { "name": "Arch Crate", "image": "" },
-    { "name": "Roleplay Crate", "image": "" },
-    { "name": "Bridge Crate", "image": "" },
-    { "name": "Spring Crate", "image": "" },
-    { "name": "Seesaw Crate", "image": "" },
-    { "name": "Conveyor Crate", "image": "" },
-    { "name": "Owner Door Crate", "image": "" },
-    { "name": "Bear Trap Crate", "image": "" },
-    { "name": "Fence Crate", "image": "" },
-    { "name": "Teleporter Pad Crate", "image": "" }
+    { "name": "Ladder Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Bench Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Light Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Sign Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Arch Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Roleplay Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Bridge Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Spring Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Seesaw Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Conveyor Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Owner Door Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Bear Trap Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Fence Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" },
+    { "name": "Teleporter Pad Crate", "image": "https://growagarden2wiki.com/assets/images/crops/seed/carrot.png" }
 ],
 
   "message": "Yay new macro release!"
