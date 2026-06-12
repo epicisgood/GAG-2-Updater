@@ -26,23 +26,44 @@
     { "name": "Moon Bloom", "image": "https://growagarden2wiki.com/assets/images/crops/seed/moon-bloom.png" },
     { "name": "Dragons Breath", "image": "https://growagarden2wiki.com/assets/images/crops/seed/dragons-breath.png" }
 ],
-    "Gears": [
-    { "name": "Common Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/CommonSprinkler.png" },
-    { "name": "Uncommon Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/UncommonSprinkler.png" },
-    { "name": "Rare Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/RareSprinkler.png" },
-    { "name": "Legendary Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/LegendarySprinkler.png" },
-    { "name": "Super Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/SuperSprinkler.png" },
+"Gears": [
     { "name": "Common Watering Can", "image": "https://growagarden2wiki.com/assets/images/gears/CommonWateringCan.png" },
+    { "name": "Common Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/CommonSprinkler.png" },
+    { "name": "Sign", "image": "https://growagarden2wiki.com/assets/images/gears/Sign.png" },
+    { "name": "Uncommon Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/UncommonSprinkler.png" },
+    { "name": "Trowel", "image": "https://growagarden2wiki.com/assets/images/gears/Trowel.png" },
+    { "name": "Rare Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/RareSprinkler.png" },
+    { "name": "Jump Mushroom", "image": "https://growagarden2wiki.com/assets/images/gears/JumpMushroom.png" },
+    { "name": "Speed Mushroom", "image": "https://growagarden2wiki.com/assets/images/gears/SpeedMushroom.png" },
+    { "name": "Lantern", "image": "https://growagarden2wiki.com/assets/images/gears/Lantern.png" },
+    { "name": "Shrink Mushroom", "image": "https://growagarden2wiki.com/assets/images/gears/ShrinkMushroom.png" },
+    { "name": "Supersize Mushroom", "image": "https://growagarden2wiki.com/assets/images/gears/SupersizeMushroom.png" },
+    { "name": "Gnome", "image": "https://growagarden2wiki.com/assets/images/gears/Gnome.png" },
+    { "name": "Flashbang", "image": "https://growagarden2wiki.com/assets/images/gears/Flashbang.png" },
+    { "name": "Basic Pot", "image": "https://growagarden2wiki.com/assets/images/gears/BasicPot.png" },
+    { "name": "Legendary Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/LegendarySprinkler.png" },
+    { "name": "Invisibility Mushroom", "image": "https://growagarden2wiki.com/assets/images/gears/InvisibilityMushroom.png" },
+    { "name": "Teleporter", "image": "https://growagarden2wiki.com/assets/images/gears/Teleporter.png" },
+    { "name": "Wheelbarrow", "image": "https://growagarden2wiki.com/assets/images/gears/Wheelbarrow.png" },
     { "name": "Super Watering Can", "image": "https://growagarden2wiki.com/assets/images/gears/SuperWateringCan.png" },
-    { "name": "Power Hose", "image": "https://growagarden2wiki.com/assets/images/gears/PowerHose.png" }
-  ],
-  "Eggs": [
-    { "name": "Common Egg", "image": "../../images/Eggs/Common Egg.webp" },
-    { "name": "Uncommon Egg", "image": "../../images/Eggs/Uncommon Egg.webp" },
-    { "name": "Rare Egg", "image": "../../images/Eggs/Rare Egg.webp" },
-    { "name": "Legendary Egg", "image": "../../images/Eggs/Legendary Egg.webp" },
-    { "name": "Mythical Egg", "image": "../../images/Eggs/Mythical Egg.webp" }
-  ],
+    { "name": "Super Sprinkler", "image": "https://growagarden2wiki.com/assets/images/gears/SuperSprinkler.png" }
+],
+"Props": [
+    { "name": "Ladder Crate", "image": "../../images/Eggs/Ladder Crate.webp" },
+    { "name": "Bench Crate", "image": "../../images/Eggs/Bench Crate.webp" },
+    { "name": "Light Crate", "image": "../../images/Eggs/Light Crate.webp" },
+    { "name": "Sign Crate", "image": "../../images/Eggs/Sign Crate.webp" },
+    { "name": "Arch Crate", "image": "../../images/Eggs/Arch Crate.webp" },
+    { "name": "Roleplay Crate", "image": "../../images/Eggs/Roleplay Crate.webp" },
+    { "name": "Bridge Crate", "image": "../../images/Eggs/Bridge Crate.webp" },
+    { "name": "Spring Crate", "image": "../../images/Eggs/Spring Crate.webp" },
+    { "name": "Seesaw Crate", "image": "../../images/Eggs/Seesaw Crate.webp" },
+    { "name": "Conveyor Crate", "image": "../../images/Eggs/Conveyor Crate.webp" },
+    { "name": "Owner Door Crate", "image": "../../images/Eggs/Owner Door Crate.webp" },
+    { "name": "Bear Trap Crate", "image": "../../images/Eggs/Bear Trap Crate.webp" },
+    { "name": "Fence Crate", "image": "../../images/Eggs/Fence Crate.webp" },
+    { "name": "Teleporter Pad Crate", "image": "../../images/Eggs/Teleporter Pad Crate.webp" }
+],
 
   "message": "Yay new macro release!"
 }
