@@ -23,6 +23,7 @@
     { "name": "Venus Fly Trap", "image": "" },
     { "name": "Pomegranate", "image": "" },
     { "name": "Poison Apple", "image": "" },
+    { "name": "Venom Spitter", "image": "" },
     { "name": "Moon Bloom", "image": "" },
     { "name": "Dragons Breath", "image": "" }
 ],
@@ -35,6 +36,7 @@
     { "name": "Rare Sprinkler", "image": "" },
     { "name": "Jump Mushroom", "image": "" },
     { "name": "Speed Mushroom", "image": "" },
+    { "name": "Megaphone", "image": "" },
     { "name": "Lantern", "image": "" },
     { "name": "Shrink Mushroom", "image": "" },
     { "name": "Supersize Mushroom", "image": "" },
@@ -45,6 +47,7 @@
     { "name": "Invisibility Mushroom", "image": "" },
     { "name": "Teleporter", "image": "" },
     { "name": "Wheelbarrow", "image": "" },
+    { "name": "Player Magnet", "image": "" },
     { "name": "Super Watering Can", "image": "" },
     { "name": "Super Sprinkler", "image": "" }
 ],
