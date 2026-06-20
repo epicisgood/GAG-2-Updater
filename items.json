@@ -23,7 +23,7 @@
     { "name": "Venus Fly Trap", "image": "" },
     { "name": "Pomegranate", "image": "" },
     { "name": "Poison Apple", "image": "" },
-    { "name": "Venom Spitter", "image": "" },
+    { "name": "Venom Spitter", "image": "https://static.wikia.nocookie.net/growagarden27847/images/3/30/VenomSpitterSeed.png" },
     { "name": "Moon Bloom", "image": "" },
     { "name": "Dragons Breath", "image": "" }
 ],
@@ -36,7 +36,7 @@
     { "name": "Rare Sprinkler", "image": "" },
     { "name": "Jump Mushroom", "image": "" },
     { "name": "Speed Mushroom", "image": "" },
-    { "name": "Megaphone", "image": "" },
+    { "name": "Megaphone", "image": "https://static.wikia.nocookie.net/growagarden27847/images/6/62/Megaphone.png" },
     { "name": "Lantern", "image": "" },
     { "name": "Shrink Mushroom", "image": "" },
     { "name": "Supersize Mushroom", "image": "" },
@@ -46,7 +46,7 @@
     { "name": "Legendary Sprinkler", "image": "" },
     { "name": "Invisibility Mushroom", "image": "" },
     { "name": "Wheelbarrow", "image": "" },
-    { "name": "Player Magnet", "image": "" },
+    { "name": "Player Magnet", "image": "https://static.wikia.nocookie.net/growagarden27847/images/b/b0/PlayerMagnet.png" },
     { "name": "Super Watering Can", "image": "" },
     { "name": "Super Sprinkler", "image": "" }
 ],
