@@ -68,18 +68,18 @@
     { "name": "Teleporter Pad Crate", "image": "" }
 ],
 "Pets": [
-    { "name": "Frog", "Price": 10000, "image": "" },
-    { "name": "Bunny", "Price": 20000, "image": "" },
-    { "name": "Owl", "Price": 25000, "image": "" },
-    { "name": "Deer", "Price": 50000, "image": "" },
-    { "name": "Turtle", "Price": 70000, "image": "" },
-    { "name": "Robin", "Price": 75000, "image": "" },
-    { "name": "Bee", "Price": 1000000, "image": "" },
-    { "name": "Monkey", "Price": 3000000, "image": "" },
-    { "name": "Golden Dragonfly", "Price": 9000000, "image": "" },
-    { "name": "Unicorn", "Price": 12000000, "image": "" },
-    { "name": "Bear", "Price": 5000000, "image": "" },
-    { "name": "Racoon", "Price": 15000000, "image": "" }
+    { "name": "Frog", "Price": 10000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/7e/FrogNoBackground.png" },
+    { "name": "Bunny", "Price": 20000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/2/26/BunnyNoBackground.png" },
+    { "name": "Owl", "Price": 25000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/5/5c/Owl.png" },
+    { "name": "Deer", "Price": 50000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/2/27/Deer.png" },
+    { "name": "Turtle", "Price": 70000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/e/e9/Turtle.png" },
+    { "name": "Robin", "Price": 75000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/1/1b/Robin.png" },
+    { "name": "Bee", "Price": 1000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/5/56/Bee.png" },
+    { "name": "Monkey", "Price": 3000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/2/27/Monkey.png" },
+    { "name": "Golden Dragonfly", "Price": 9000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/e/ee/GoldenDragonfly.png" },
+    { "name": "Unicorn", "Price": 12000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/7e/Unicorn.png" },
+    { "name": "Bear", "Price": 5000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/a/a4/Bear.png" },
+    { "name": "Racoon", "Price": 15000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/73/Racoon.png" }
 ],
 
   "message": "Unequip speed pets pls. It breaks macro"
