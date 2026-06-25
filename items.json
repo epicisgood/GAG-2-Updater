@@ -67,6 +67,20 @@
     { "name": "Fence Crate", "image": "" },
     { "name": "Teleporter Pad Crate", "image": "" }
 ],
+"Pets": [
+    { "name": "Frog", "Price": 10000, "image": "" },
+    { "name": "Bunny", "Price": 20000, "image": "" },
+    { "name": "Owl", "Price": 25000, "image": "" },
+    { "name": "Deer", "Price": 50000, "image": "" },
+    { "name": "Turtle", "Price": 70000, "image": "" },
+    { "name": "Robin", "Price": 75000, "image": "" },
+    { "name": "Bee", "Price": 1000000, "image": "" },
+    { "name": "Monkey", "Price": 3000000, "image": "" },
+    { "name": "Golden Dragonfly", "Price": 9000000, "image": "" },
+    { "name": "Unicorn", "Price": 12000000, "image": "" },
+    { "name": "Bear", "Price": 5000000, "image": "" },
+    { "name": "Racoon", "Price": 15000000, "image": "" }
+],
 
   "message": "Unequip speed pets pls. It breaks macro"
 }
