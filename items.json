@@ -25,8 +25,8 @@
     { "name": "Poison Apple", "image": "" },
     { "name": "Venom Spitter", "image": "" },
     { "name": "Moon Bloom", "image": "" },
-    { "name": "Dragons Breath", "image": "" },
     { "name": "Hypno Bloom", "image": "" }
+    { "name": "Dragons Breath", "image": "" }
 ],
 "Gears": [
     { "name": "Common Watering Can", "image": "" },
