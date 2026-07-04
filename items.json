@@ -81,9 +81,9 @@
     { "name": "Robin", "price": 75000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/1/1b/Robin.png" },
     { "name": "Bee", "price": 1000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/5/56/Bee.png" },
     { "name": "Monkey", "price": 3000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/2/27/Monkey.png" },
+    { "name": "Bear", "price": 5000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/a/a4/Bear.png" },
     { "name": "Golden Dragonfly", "price": 9000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/e/ee/GoldenDragonfly.png" },
     { "name": "Unicorn", "price": 12000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/7e/Unicorn.png" },
-    { "name": "Bear", "price": 5000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/a/a4/Bear.png" },
     { "name": "Racoon", "price": 15000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/73/Racoon.png" }
 ],
 
