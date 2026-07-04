@@ -66,6 +66,7 @@
     { "name": "Conveyor Crate", "image": "" },
     { "name": "Owner Door Crate", "image": "" },
     { "name": "Bear Trap Crate", "image": "" },
+    { "name": "Boombox Crate", "image": "" },
     { "name": "Fence Crate", "image": "" },
     { "name": "Teleporter Pad Crate", "image": "" }
 ],
