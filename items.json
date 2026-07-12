@@ -16,7 +16,6 @@
     { "name": "Grape", "image": "" },
     { "name": "Coconut", "image": "" },
     { "name": "Mango", "image": "" },
-    { "name": "Rocket Pop", "image": "" },
     { "name": "Dragon Fruit", "image": "" },
     { "name": "Acorn", "image": "" },
     { "name": "Cherry", "image": "" },
@@ -29,7 +28,8 @@
     { "name": "Moon Bloom", "image": "" },
     { "name": "Sun Bloom", "image": "" },
     { "name": "Hypno Bloom", "image": "https://gag.gg/seeds/hypno-bloom.png" },
-    { "name": "Dragons Breath", "image": "" }
+    { "name": "Dragons Breath", "image": "" },
+    { "name": "Star Fruit", "image": "" }
 ],
 "Gears": [
     { "name": "Common Watering Can", "image": "" },
