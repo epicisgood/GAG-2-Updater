@@ -88,8 +88,6 @@
   ],
   "Weather": [
     { "name": "Gold Moon", "duration": 120, "image": "https://static.wikia.nocookie.net/growagarden27847/images/0/08/Goldmoon.png" },
-    { "name": "Blood Moon", "duration": 120, "image": "https://static.wikia.nocookie.net/growagarden27847/images/4/49/BloodmoonOF.png" },
-    { "name": "Rainbow Moon", "duration": 120, "image": "https://static.wikia.nocookie.net/growagarden27847/images/c/c3/RainbowMoon.png" },
     { "name": "Mega Moon", "duration": 120, "image": "https://static.wikia.nocookie.net/growagarden27847/images/4/4b/MegaMoon.png" },
     { "name": "Lightning", "duration": 300, "image": "https://static.wikia.nocookie.net/growagarden27847/images/3/3d/Thunder.png" },
     { "name": "Rainbow", "duration": 300, "image": "https://static.wikia.nocookie.net/growagarden27847/images/1/1e/Rainbow.png" },
