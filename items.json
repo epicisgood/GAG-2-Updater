@@ -87,7 +87,6 @@
     { "name": "Racoon", "price": 15000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/73/Racoon.png" }
   ],
   "Weather": [
-    { "name": "Rain", "image": "https://static.wikia.nocookie.net/growagarden27847/images/2/22/RainWeather.png" },
     { "name": "Lightning", "image": "https://static.wikia.nocookie.net/growagarden27847/images/3/3d/Thunder.png" },
     { "name": "Rainbow", "image": "https://static.wikia.nocookie.net/growagarden27847/images/1/1e/Rainbow.png" },
     { "name": "Snowfall", "image": "https://static.wikia.nocookie.net/growagarden27847/images/5/56/SnowFall.png" },
