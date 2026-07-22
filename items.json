@@ -87,14 +87,12 @@
     { "name": "Racoon", "price": 15000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/73/Racoon.png" }
   ],
   "Weather": [
-    { "name": "Lightning", "image": "https://static.wikia.nocookie.net/growagarden27847/images/3/3d/Thunder.png" },
-    { "name": "Rainbow", "image": "https://static.wikia.nocookie.net/growagarden27847/images/1/1e/Rainbow.png" },
-    { "name": "Snowfall", "image": "https://static.wikia.nocookie.net/growagarden27847/images/5/56/SnowFall.png" },
-    { "name": "Starfall", "image": "https://static.wikia.nocookie.net/growagarden27847/images/a/a6/Starfall.png" },
-    { "name": "Aurora", "image": "https://static.wikia.nocookie.net/growagarden27847/images/8/89/Aurora.png" },
-    { "name": "Eclipse", "image": "https://static.wikia.nocookie.net/growagarden27847/images/c/c5/Eclipse.png" },
-    { "name": "Sunburst", "image": "https://static.wikia.nocookie.net/growagarden27847/images/9/97/Sunburst.png" }
-
+    { "name": "Lightning", "duration": 300, "image": "https://static.wikia.nocookie.net/growagarden27847/images/3/3d/Thunder.png" },
+    { "name": "Rainbow", "duration": 300, "image": "https://static.wikia.nocookie.net/growagarden27847/images/1/1e/Rainbow.png" },
+    { "name": "Snowfall", "duration": 150, "image": "https://static.wikia.nocookie.net/growagarden27847/images/5/56/SnowFall.png" },
+    { "name": "Starfall", "duration": 120, "image": "https://static.wikia.nocookie.net/growagarden27847/images/a/a6/Starfall.png" },
+    { "name": "Aurora", "duration": 120, "image": "https://static.wikia.nocookie.net/growagarden27847/images/8/89/Aurora.png" },
+    { "name": "Sunburst", "duration": 120, "image": "https://static.wikia.nocookie.net/growagarden27847/images/9/97/Sunburst.png" }
   ],
   "message": "Share the macro with your friends! "
 }
