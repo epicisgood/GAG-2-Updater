@@ -87,54 +87,13 @@
     { "name": "Racoon", "price": 15000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/73/Racoon.png" }
   ],
   "Weather": [
-    {
-      "name": "Aurora",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/8/89/Aurora.png"
-    },
-    {
-      "name": "Blood Moon",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/a/a2/Blood_Moon.png"
-    },
-    {
-      "name": "Eclipse",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/1/18/Eclipse.png"
-    },
-    {
-      "name": "Gold Moon",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/b/b3/Gold_Moon.png"
-    },
-    {
-      "name": "Lightning",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/2/23/Lightning.png"
-    },
-    {
-      "name": "Mega Moon",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/c/c5/Mega_Moon.png"
-    },
-    {
-      "name": "Rain",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/e/e0/Rain.png"
-    },
-    {
-      "name": "Rainbow",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/4/41/Rainbow.png"
-    },
-    {
-      "name": "Rainbow Moon",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/d/d4/Rainbow_Moon.png"
-    },
-    {
-      "name": "Snowfall",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/3/36/Snowfall.png"
-    },
-    {
-      "name": "Starfall",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/70/Starfall.png"
-    },
-    {
-      "name": "Sunburst",
-      "image": "https://static.wikia.nocookie.net/growagarden27847/images/5/5e/Sunburst.png"
-    }
+    { "name": "Rain", "image": "https://static.wikia.nocookie.net/growagarden27847/images/2/22/RainWeather.png" },
+    { "name": "Lightning", "image": "https://static.wikia.nocookie.net/growagarden27847/images/3/3d/Thunder.png" },
+    { "name": "Rainbow", "image": "https://static.wikia.nocookie.net/growagarden27847/images/1/1e/Rainbow.png" },
+    { "name": "Snowfall", "image": "https://static.wikia.nocookie.net/growagarden27847/images/5/56/SnowFall.png" },
+    { "name": "Starfall", "image": "https://static.wikia.nocookie.net/growagarden27847/images/a/a6/Starfall.png" },
+    { "name": "Aurora", "image": "https://static.wikia.nocookie.net/growagarden27847/images/8/89/Aurora.png" },
+    { "name": "Eclipse", "image": "https://static.wikia.nocookie.net/growagarden27847/images/c/c5/Eclipse.png" }
   ],
   "message": "Share the macro with your friends! "
 }
