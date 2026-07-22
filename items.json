@@ -93,7 +93,9 @@
     { "name": "Snowfall", "image": "https://static.wikia.nocookie.net/growagarden27847/images/5/56/SnowFall.png" },
     { "name": "Starfall", "image": "https://static.wikia.nocookie.net/growagarden27847/images/a/a6/Starfall.png" },
     { "name": "Aurora", "image": "https://static.wikia.nocookie.net/growagarden27847/images/8/89/Aurora.png" },
-    { "name": "Eclipse", "image": "https://static.wikia.nocookie.net/growagarden27847/images/c/c5/Eclipse.png" }
+    { "name": "Eclipse", "image": "https://static.wikia.nocookie.net/growagarden27847/images/c/c5/Eclipse.png" },
+    { "name": "Sunburst", "image": "https://static.wikia.nocookie.net/growagarden27847/images/9/97/Sunburst.png" }
+
   ],
   "message": "Share the macro with your friends! "
 }
