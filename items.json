@@ -86,6 +86,61 @@
     { "name": "Unicorn", "price": 12000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/7e/Unicorn.png" },
     { "name": "Racoon", "price": 15000000, "image": "https://static.wikia.nocookie.net/growagarden27847/images/7/73/Racoon.png" }
   ],
+
+
+
+"FallSeeds": [
+    { "name": "Maple Carrot", "image": "" },
+    { "name": "Maple Strawberry", "image": "" },
+    { "name": "Maple Blueberry", "image": "" },
+    { "name": "Maple Tulip", "image": "" },
+    { "name": "Maple Tomato", "image": "" },
+    { "name": "Maple Apple", "image": "" },
+    { "name": "Maple Bamboo", "image": "" },
+    { "name": "Maple Corn", "image": "" },
+    { "name": "Maple Cactus", "image": "" },
+    { "name": "Maple Pineapple", "image": "" },
+    { "name": "Maple Mushroom", "image": "" },
+    { "name": "Maple Green Bean", "image": "" },
+    { "name": "Maple Banana", "image": "" },
+    { "name": "Maple Grape", "image": "" },
+    { "name": "Maple Coconut", "image": "" },
+    { "name": "Maple Mango", "image": "" },
+    { "name": "Maple Dragon Fruit", "image": "" },
+    { "name": "Maple Acorn", "image": "" },
+    { "name": "Maple Cherry", "image": "" },
+    { "name": "Maple Sunflower", "image": "" },
+    { "name": "Atlantic Giant Pumpkin", "image": "" },
+    { "name": "Maple Venus Fly Trap", "image": "" },
+    { "name": "Maple Pomegranate", "image": "" },
+    { "name": "Maple Poison Apple", "image": "" }
+  ],
+  "FallGears": [
+    { "name": "Syrup Watering Can", "image": "" },
+    { "name": "Syrup Sprinkler", "image": "" },
+    { "name": "Sign", "image": "" },
+    { "name": "Trowel", "image": "" },
+    { "name": "Harp", "image": "" },
+    { "name": "Rare Magic Mail", "image": "" },
+    { "name": "Megaphone", "image": "" },
+    { "name": "Bull Horn", "image": "" },
+    { "name": "Wind Staff", "image": "" },
+    { "name": "Legendary Magic Mail", "image": "" },
+    { "name": "Wheelbarrow", "image": "" },
+    { "name": "Super Syrup Watering Can", "image": "" },
+    { "name": "Super Syrup Sprinkler", "image": "" }
+  ],
+  "FallCrates": [
+    { "name": "Lantern Crate", "image": "" },
+    { "name": "Fall Cosmetic Crate", "image": "" },
+    { "name": "Cobblestone Crate", "image": "" },
+    { "name": "Fall Structure Crate", "image": "" },
+    { "name": "Rake Crate", "image": "" }
+  ],
+  
+
+
+  
   "Weather": [
     { "name": "GoldMoon", "duration": 120, "image": "https://static.wikia.nocookie.net/growagarden27847/images/0/08/Goldmoon.png" },
     { "name": "BloodMoon", "duration": 120, "image": "https://static.wikia.nocookie.net/growagarden27847/images/4/49/BloodmoonOF.png" },
