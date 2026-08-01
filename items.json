@@ -137,14 +137,14 @@
     { "name": "Fall Structure Crate", "image": "" },
     { "name": "Rake Crate", "image": "" }
   ],
-  "FallPets": [
-    { "name": "Dog", "image": "" },
-    { "name": "Turkey", "image": "" },
-    { "name": "Hedgehog", "image": "" },
-    { "name": "Squirrel", "image": "" },
-    { "name": "Swan", "image": "" },
-    { "name": "Fox", "image": "" },
-    { "name": "Shadow Dragon", "image": "" }
+"FallPets": [
+    { "name": "Dog", "price": 50000, "image": "" },
+    { "name": "Turkey", "price": 100000, "image": "" },
+    { "name": "Hedgehog", "price": 140000, "image": "" },
+    { "name": "Squirrel", "price": 1200000, "image": "" },
+    { "name": "Swan", "price": 1600000, "image": "" },
+    { "name": "Fox", "price": 10000000, "image": "" },
+    { "name": "Shadow Dragon", "price": 30000000, "image": "" }
   ],
   
 
