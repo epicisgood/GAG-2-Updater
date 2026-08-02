@@ -138,14 +138,14 @@
     { "name": "Rake Crate", "image": "" }
   ],
 "FallPets": [
-    { "name": "Dog", "price": 50000, "image": "" },
-    { "name": "Turkey", "price": 100000, "image": "" },
-    { "name": "Hedgehog", "price": 140000, "image": "" },
-    { "name": "Squirrel", "price": 1200000, "image": "" },
-    { "name": "Swan", "price": 1600000, "image": "" },
-    { "name": "Fox", "price": 10000000, "image": "" },
-    { "name": "Shadow Dragon", "price": 30000000, "image": "" }
-  ],
+    { "name": "Dog", "price": 50000, "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallPets/Dog.webp" },
+    { "name": "Turkey", "price": 100000, "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallPets/Turkey.webp" },
+    { "name": "Hedgehog", "price": 140000, "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallPets/Hedgehog.webp" },
+    { "name": "Squirrel", "price": 1200000, "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallPets/Squirrel.webp" },
+    { "name": "Swan", "price": 1600000, "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallPets/Swan.webp" },
+    { "name": "Fox", "price": 10000000, "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallPets/Fox.webp" },
+    { "name": "Shadow Dragon", "price": 30000000, "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallPets/Shadow Dragon.webp" }
+  ]
   
 
 
