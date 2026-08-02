@@ -134,12 +134,12 @@
     { "name": "Super Syrup Sprinkler", "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallGears/Super Syrup Sprinkler.webp" },
     { "name": "Super Magic Mail", "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallGears/Super Magic Mail.webp" }
   ],
-  "FallCrates": [
-    { "name": "Lantern Crate", "image": "" },
-    { "name": "Fall Cosmetic Crate", "image": "" },
-    { "name": "Cobblestone Crate", "image": "" },
-    { "name": "Fall Structure Crate", "image": "" },
-    { "name": "Rake Crate", "image": "" }
+"FallCrates": [
+    { "name": "Lantern Crate", "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallCrates/Lantern Crate.webp" },
+    { "name": "Fall Cosmetic Crate", "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallCrates/Fall Cosmetic Crate.webp" },
+    { "name": "Cobblestone Crate", "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallCrates/Cobblestone Crate.webp" },
+    { "name": "Fall Structure Crate", "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallCrates/Fall Structure Crate.webp" },
+    { "name": "Rake Crate", "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallCrates/Rake Crate.webp" }
   ],
 "FallPets": [
     { "name": "Dog", "price": 50000, "image": "https://cdn.jsdelivr.net/gh/epicisgood/GAG-2-Updater@main/images/FallPets/Dog.webp" },
